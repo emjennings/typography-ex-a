@@ -1,0 +1,16 @@
+/* Your Website Styles */
+body{
+	font-family: 'Signika', sans-serif;
+}
+h1 {
+	font-family: 'Bangers', cursive;
+}
+h3{ 
+	font-family: 'Bangers', cursive;
+}
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
